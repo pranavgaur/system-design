@@ -34,5 +34,4 @@
 | 28 | Design a notification service that sends notifications to multiple devices | Amazon | Link |
 | 29 | Design a comprehensive workflow system that responds to pause/continue functions | Amazon | Link |
 | 30 | Design a scheduler service that can manage huge schedules with minimal latency | Amazon | Link |
-| 31 | designing an API rate limiter? [LLD problem] | Amazon | Link |
-| 32 | Design a comprehensive workflow system that responds to pause/continue functions | Amazon | Link |
+| 31 | Design an API rate limiter? [LLD problem] | Amazon | Link |
