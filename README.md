@@ -24,4 +24,15 @@
 | 18 | Design a live-streaming broadcast app like ESPN | Video Processing | Link |
 | 19 | Design an on-demand streaming app like Netflix | Video Processing | Link |
 | 20 | Design a live-streaming social media app like Twitch | Video Processing | Link |
-
+| 21 | Design an in-memory database system | Amazon | Link |
+| 22 | Design an IP blocking system | Amazon | Link |
+| 23 | Design a voting system, where people will cast their votes and the votes get added to corresponding candidates | Amazon | Link |
+| 24 | Design a system to find 100 top-selling products in a given time window | Amazon | Link |
+| 25 | Design an Amazon online bookstore, where users can view prices and make purchases | Amazon | Link |
+| 26 | Design a system where an office administrator knows how many people are present on each floor of the building, given that the building has 3 floors | Amazon | Link |
+| 27 | Design a system to upload images with tags — users would be able to visit and search for images by entering the tags | Amazon | Link |
+| 28 | Design a notification service that sends notifications to multiple devices | Amazon | Link |
+| 29 | Design a comprehensive workflow system that responds to pause/continue functions | Amazon | Link |
+| 30 | Design a scheduler service that can manage huge schedules with minimal latency | Amazon | Link |
+| 31 | designing an API rate limiter? [LLD problem] | Amazon | Link |
+| 32 | Design a comprehensive workflow system that responds to pause/continue functions | Amazon | Link |
