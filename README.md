@@ -3,7 +3,7 @@
 
 
 | # | TOPIC | Category | Resource Links |
-| :-: | --- | :-: | --- | :-: |
+| :-: | --- | :-: | --- |
 | 1 | Design a seat-booking system like BookMyShow | Booking Systems | Link |
 | 2 | Design a ticket booking system like IRCTC | Booking Systems | Link |
 | 3 | Design a social media app like Twitter | Social Media App | Link |
